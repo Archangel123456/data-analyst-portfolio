@@ -13,7 +13,7 @@ Aspiring Data Analyst with a strong foundation in engineering, analytical thinki
 ## 📊 Projects
 
 ### 🔗 Kaggle & Online Portfolio
-- [Fitness Activity Case Study on Kaggle](https://www.kaggle.com/code/davidtochukwu/fitness-activity-sleep-heart-rate)
+- [Fitness Activity Case Study on Kaggle](https://www.kaggle.com/code/davidtochukwu/analysis-on-fitbit-fitness-tracker)
 - [Cyclistic Bike-Share Analysis on Kaggle](https://www.kaggle.com/code/davidtochukwu/cylistic-bike-trip-analysis)
 - [Church Choir Financial Analysis (Google Slides)](https://docs.google.com/presentation/d/1tWX0d7nvML12uVsYLD21AiJBL2KmvNIYKcR-YNeHNUw/edit?usp=drive_link)
 
