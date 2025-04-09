@@ -64,8 +64,8 @@ Aspiring Data Analyst with a strong foundation in engineering, analytical thinki
 
 ### 🏨 Hotel Booking Analysis
 **Tool:** Power BI  
-**File:** [Hotel Booking Dashboard (PBIX)](./Hotel%20Project.pbix)
-
+**File:** [Hotel Booking Dashboard (PBIX)](./https://docs.google.com/presentation/d/1XZSUKdq-OO7qGcPYHveGEJgpZi1Rs1df/edit?usp=sharing&ouid=116452035813536629055&rtpof=true&sd=true)
+**File:** [Hotel Booking Dashboard (PBIX)](./https://docs.google.com/presentation/d/15WS8N-PwHXap7ThIdZeJZKyQqBJDTbyu/edit?usp=sharing&ouid=116452035813536629055&rtpof=true&sd=true)
 **Highlights:**
 - DAX-based KPIs: revenue, cancellations, lead time.
 - Monthly and seasonal insights.
